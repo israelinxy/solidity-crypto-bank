@@ -20,7 +20,7 @@ The main goal is to understand and practice the following Solidity concepts:
 - Basic access control.
 - CEI pattern (`Checks`, `Effects`, `Interactions`).
 
-The contract is implemented in [`CryptoBank.sol`](./CryptoBank.sol).
+The contract is implemented in [`CryptoBankCustom.sol`](./CryptoBankCustom.sol).
 
 
 ### System flow
